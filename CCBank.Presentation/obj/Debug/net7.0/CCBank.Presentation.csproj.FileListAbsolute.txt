@@ -1,0 +1,15 @@
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/bin/Debug/net7.0/CCBank.Presentation
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/bin/Debug/net7.0/CCBank.Presentation.deps.json
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/bin/Debug/net7.0/CCBank.Presentation.runtimeconfig.json
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/bin/Debug/net7.0/CCBank.Presentation.dll
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/bin/Debug/net7.0/CCBank.Presentation.pdb
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/obj/Debug/net7.0/CCBank.Presentation.csproj.AssemblyReference.cache
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/obj/Debug/net7.0/CCBank.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/obj/Debug/net7.0/CCBank.Presentation.AssemblyInfoInputs.cache
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/obj/Debug/net7.0/CCBank.Presentation.AssemblyInfo.cs
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/obj/Debug/net7.0/CCBank.Presentation.csproj.CoreCompileInputs.cache
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/obj/Debug/net7.0/CCBank.Presentation.dll
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/obj/Debug/net7.0/refint/CCBank.Presentation.dll
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/obj/Debug/net7.0/CCBank.Presentation.pdb
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/obj/Debug/net7.0/CCBank.Presentation.genruntimeconfig.cache
+/Users/malcolmcollins/Projects/CCBank/CCBank.Presentation/obj/Debug/net7.0/ref/CCBank.Presentation.dll
